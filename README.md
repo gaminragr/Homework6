@@ -4,7 +4,7 @@
 
 
 
-![](schema6.jpg)
+![](sсhema6.jpg)
 
 
 
